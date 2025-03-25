@@ -1,5 +1,5 @@
 import streamlit as st
-from grafic import plot_price
+from graphic import plot_price
 
 st.title('Histórico de Cotações')
 st.write('Veja o histórico das cotações das empresas.')
